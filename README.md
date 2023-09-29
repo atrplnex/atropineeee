@@ -8,7 +8,7 @@
 ---
 ### :hammer_and_wrench: Language and IDE used :
 
-<div>
+<div id="badges">
   <img src = "https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DiscordJS" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" width="40" height="40"/>&nbsp;
