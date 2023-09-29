@@ -4,8 +4,6 @@
 - :bulb: Interested in 3d/2d Game and Bot Development
 - :no_bell: Discord >> hayase_haruki << 
 - :mailbox_closed: DM Status >> :no_entry_sign: DM CLOSED :no_entry_sign: <<
----
-
 ### :hammer_and_wrench: Language and IDE used :
 <div id="badges">
   <img src = "https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DiscordJS" width="40" height="40"/>&nbsp;
