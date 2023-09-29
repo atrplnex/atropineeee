@@ -1,9 +1,10 @@
-### :exclamation: Sagae Haruki :exclamation:
+### :exclamation: Sagae Haruki :exclamation: :
+---
 - :memo: I am a IT College Student
 - :books: Studying C# C++ and JavaScript
 - :bulb: Interested in 3d/2d Game and Bot Development
 - :no_bell: Discord >> hayase_haruki << Status >> :no_entry_sign: DM CLOSED :no_entry_sign: <<
-
+---
 ### :hammer_and_wrench: Language and IDE used :
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DiscordJS" width="40" height="40"/>&nbsp;
