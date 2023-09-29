@@ -21,9 +21,4 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" width="40" height="40"/>&nbsp;
 </div>
----
-
-### :fire: My Top Languages :
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagaeharuki&show_icons=true&locale=en&layout=compact" alt="sagaeharuki" /></p>
 
