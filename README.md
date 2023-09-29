@@ -22,6 +22,4 @@
 </div>
 ---
 ### :fire: My Top Languages :
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SagaeHaruki_&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagaeharuki&show_icons=true&locale=en&layout=compact" alt="sagaeharuki" /></p>
