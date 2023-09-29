@@ -6,8 +6,8 @@
 - :no_bell: Discord >> hayase_haruki << 
 - :mailbox_closed: DM Status >> :no_entry_sign: DM CLOSED :no_entry_sign: <<
 ---
-### :hammer_and_wrench: Language and IDE used :
 
+### :hammer_and_wrench: Language and IDE used :
 <div id="badges">
   <img src = "https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DiscordJS" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" width="40" height="40"/>&nbsp;
@@ -21,8 +21,9 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" width="40" height="40"/>&nbsp;
 </div>
-:
+---
+
 ### :fire: My Top Languages :
----
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagaeharuki&show_icons=true&locale=en&layout=compact" alt="sagaeharuki" /></p>
----
+
