@@ -23,4 +23,3 @@
 ---
 ### :fire: My Top Languages :
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagaeharuki&show_icons=true&locale=en&layout=compact" alt="sagaeharuki" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagaeharuki&label=Profile%20views&color=0e75b6&style=flat" alt="sagaeharuki" /> </p>
