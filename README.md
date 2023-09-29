@@ -1,5 +1,4 @@
 ### :exclamation: Sagae Haruki :exclamation: :
----
 - :memo: I am a IT College Student
 - :books: Studying C# C++ and JavaScript
 - :bulb: Interested in 3d/2d Game and Bot Development
