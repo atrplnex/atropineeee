@@ -20,3 +20,6 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" width="40" height="40"/>&nbsp;
 </div>
+---
+### :fire: My Top Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagaeharuki)](https://github.com/anuraghazra/github-readme-stats)
