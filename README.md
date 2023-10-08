@@ -1,7 +1,7 @@
 ---
 
-<h3 align="center">Hello I'm Sagae Haruki A.K.A "Atropine"</h1>
-<h3 align="center">C#, C++ JavaScript Programmer</h3>
+<h3 align="center">Hello I'm Sagae Haruki A.K.A. "Atropine"</h1>
+<h3 align="center">C#, C++, JavaScript Programmer</h3>
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagaeharuki&label=Profile%20views&color=0902d1&style=flat" alt="sagaeharuki" /> </p>
