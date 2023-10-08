@@ -1,19 +1,26 @@
-<h1 align="center">Hi 👋, I'm Sagae Haruki</h1>
-<h3 align="center">C# JavaScript Programmer Learning to Create Games</h3>
+<h3 align="center">Hello I'm Sagae Haruki A.K.A "Atropine"</h1>
+<h3 align="center">C#, C++ JavaScript Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagaeharuki&label=Profile%20views&color=0e75b6&style=flat" alt="sagaeharuki" /> </p>
+---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagaeharuki&label=Profile%20views&color=0e75b6&style=flat" alt="sagaeharuki" /> </p>
 
-- 🔭 I’m currently working on **Hayase Bot C# Discord Bot**
 
-- 🌱 I’m currently learning **C#, C++, JavaScript, MSSQL**
+<p align="center"> 🔭 I’m currently working on **Hayase Bot C# Discord Bot**</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-### :hammer_and_wrench: Language and IDE used :
+<p align="center"> 🌱 I’m currently learning **C#, C++, JavaScript, MSSQL**</p>
+
 ---
 
-<div id="badges">
+<p align="center">
+<a href="https://twitter.com/harukiisagae_" target="blank"><img align = "center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt = "harukiisagae_" height="30" width="40"/></a
+<a href="https://github.com/SagaeHaruki" target = "blank"><img align = "center" src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt = "SagaeHaruki" height="30" width="40"/>
+</p>
+
+---
+
+<h3 align="center">Languages i used and my IDE</h3>
+
+<div align= "center" id="badges">
   <img src = "https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DiscordJS" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" width="40" height="40"/>&nbsp;
@@ -27,5 +34,5 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" width="40" height="40"/>&nbsp;
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagaeharuki&show_icons=true&locale=en&layout=compact" alt="sagaeharuki" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagaeharuki&show_icons=true&locale=en&layout=compact" alt="sagaeharuki" /></p>
 
