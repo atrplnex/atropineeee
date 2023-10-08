@@ -9,14 +9,10 @@
 
 <p align="center"> 🌱 I’m currently learning **C#, C++, JavaScript, MSSQL**</p>
 
----
-
 <p align="center">
-<a href="https://twitter.com/harukiisagae_" target="blank"><img align = "center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt = "harukiisagae_" height="30" width="40"/></a
-<a href="https://github.com/SagaeHaruki" target = "blank"><img align = "center" src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt = "SagaeHaruki" height="30" width="40"/>
+<a href="https://twitter.com/harukiisagae_" target = "blank"><img src="https://github.com/SagaeHaruki/Images/blob/main/twitter.svg" title="Twitter" width="50" height="40"/></a>
+<a href="https://github.com/SagaeHaruki" target = "blank"><img src = "https://github.com/SagaeHaruki/Images/blob/main/github-original.svg" title="Github" width="50" height="40"/></a>
 </p>
-
----
 
 <h3 align="center">Languages i used and my IDE</h3>
 
