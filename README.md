@@ -2,7 +2,7 @@
 <h3 align="center">C#, C++ JavaScript Programmer</h3>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagaeharuki&label=Profile%20views&color=0e75b6&style=flat" alt="sagaeharuki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagaeharuki&label=Profile%20views&color=0902d1&style=flat" alt="sagaeharuki" /> </p>
 
 
 <p align="center"> 🔭 I’m currently working on **Hayase Bot C# Discord Bot**</p>
@@ -10,7 +10,7 @@
 <p align="center"> 🌱 I’m currently learning **C#, C++, JavaScript, MSSQL**</p>
 
 <p align="center">
-<a href="https://twitter.com/harukiisagae_" target = "blank"><img src="https://github.com/SagaeHaruki/Images/blob/main/twitter.svg" title="Twitter" width="50" height="40"/></a>
+<a href="https://twitter.com/harukiisagae_" target = "blank"><img src="https://github.com/SagaeHaruki/Images/blob/main/twt.svg" title="Twitter" width="50" height="40"/></a>
 <a href="https://github.com/SagaeHaruki" target = "blank"><img src = "https://github.com/SagaeHaruki/Images/blob/main/github-original.svg" title="Github" width="50" height="40"/></a>
 </p>
 
