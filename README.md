@@ -40,3 +40,13 @@
 <a href="https://discord.com/users/817577444805836831" target = "blank"><img src = "https://github.com/SagaeHaruki/Images/blob/main/discord_icon.svg" title="Github" width="50" height="40"/></a>
 </p>
 
+---
+
+<h3 align = "center">School activities i've done</h3>
+<p align = "center">
+  [Delegate]: https://github.com/SagaeHaruki/Delegate <br>
+  [Queue System]: https://github.com/SagaeHaruki/CS_Queue <br>
+  [Org Profile]: https://github.com/SagaeHaruki/OrganizationProfile <br>
+  [Inventory System]: https://github.com/SagaeHaruki/Inventory-System <br>
+</p>
+
