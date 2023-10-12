@@ -36,7 +36,7 @@
 <h3 align="center">Socials that i'm currently using</h3>
 <p align="center">
 <a href="https://twitter.com/harukiisagae_" target = "blank"><img src="https://github.com/SagaeHaruki/Images/blob/main/twitter.svg" title="Twitter" width="50" height="40"/></a>
-<a href="https://github.com/SagaeHaruki" target = "blank"><img src = "https://github.com/SagaeHaruki/Images/blob/main/github-original.svg" title="Github" width="50" height="40"/></a>
+<a href="https://github.com/SagaeHaruki?tab=repositories" target = "blank"><img src = "https://github.com/SagaeHaruki/Images/blob/main/github-original.svg" title="Github" width="50" height="40"/></a>
 <a href="https://discord.com/users/817577444805836831" target = "blank"><img src = "https://github.com/SagaeHaruki/Images/blob/main/discord_icon.svg" title="Github" width="50" height="40"/></a>
 </p>
 
