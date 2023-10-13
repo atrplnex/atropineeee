@@ -36,17 +36,14 @@
 <h3 align="center">Socials that i'm currently using</h3>
 <p align="center">
 <a href="https://twitter.com/harukiisagae_" target = "blank"><img src="https://github.com/SagaeHaruki/Images/blob/main/twitter.svg" title="Twitter" width="50" height="40"/></a>
-<a href="https://github.com/SagaeHaruki?tab=repositories" target = "blank"><img src = "https://github.com/SagaeHaruki/Images/blob/main/github-original.svg" title="Github" width="50" height="40"/></a>
+<a href="https://github.com/SagaeHaruki" target = "blank"><img src = "https://github.com/SagaeHaruki/Images/blob/main/github-original.svg" title="Github" width="50" height="40"/></a>
 <a href="https://discord.com/users/817577444805836831" target = "blank"><img src = "https://github.com/SagaeHaruki/Images/blob/main/discord_icon.svg" title="Github" width="50" height="40"/></a>
 </p>
 
 ---
 
-<h3 align = "center">School activities i've done</h3>
+<h3 align = "center">My Repository</h3>
 <p align = "center">
-  [Delegate]: https://github.com/SagaeHaruki/Delegate <br>
-  [Queue System]: https://github.com/SagaeHaruki/CS_Queue <br>
-  [Org Profile]: https://github.com/SagaeHaruki/OrganizationProfile <br>
-  [Inventory System]: https://github.com/SagaeHaruki/Inventory-System <br>
+<a href="https://github.com/SagaeHaruki?tab=repositories" target = "blank"><img src = "https://github.com/SagaeHaruki/Images/blob/main/github-original.svg" title="Github" width="50" height="40"/></a>
 </p>
 
