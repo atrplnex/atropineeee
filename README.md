@@ -13,6 +13,8 @@
 
 <p align="center"> 🛠 My Skill level: C# > Advanced level, C++ > Beginer, JavaScript > Beginer</p>  
 
+---
+
 <p align="center">
 <p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/817577444805836831?idleMessage="May%20The%20Code%20Be%20With%20you"&borderRadius=25px" alt="sagaeharuki" /></p>
 </p>
