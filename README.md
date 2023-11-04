@@ -11,7 +11,7 @@
 
 <p align="center"> 🌱 I’m currently learning C#, C++, JavaScript, MSSQL</p>  
 
-<p align="center"> 🛠 My Skill level: C# > Advanced level, C++ > Beginer, JavaScript > Beginer</p>  
+<p align="center"> 🛠  Active Repository: [https://github.com/SagaeHaruki/HayaseBot]
 
 ---
 
