@@ -4,6 +4,7 @@
 <h3 align="center">C#, C++, JavaScript - Programmer</h3>
 
 ---
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagaeharuki&label=Profile%20views&color=0902d1&style=flat" alt="sagaeharuki" /> </p>
 
 
@@ -13,6 +14,8 @@
 
 <p align="center"> 🛠  Active Repository: [https://github.com/SagaeHaruki/HayaseBot]
 
+<h3>🛠  Active Repositories 🛠</h3>
+- [https://github.com/SagaeHaruki/HayaseBot]
 ---
 
 <p align="center">
