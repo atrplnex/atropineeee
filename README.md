@@ -13,8 +13,8 @@
 
 <h3 align="center">🛠  Active Repositories 🛠</h3>
 
-- [https://github.com/SagaeHaruki/HayaseBot]
-- [https://github.com/SagaeHaruki/Discord-Bot-JS]
+<p align="center">- [https://github.com/SagaeHaruki/HayaseBot]</p>
+<p align="center">- [https://github.com/SagaeHaruki/Discord-Bot-JS]</p>
 
 ---
 
