@@ -7,14 +7,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagaeharuki&label=Profile%20views&color=0902d1&style=flat" alt="sagaeharuki" /> </p>
 
-
 <p align="center"> 🔭 I’m currently working on Hayase Bot, a C# Discord Bot</p>
 
 <p align="center"> 🌱 I’m currently learning C#, C++, JavaScript, MSSQL</p>  
 
-<p align="center"> 🛠  Active Repository: [https://github.com/SagaeHaruki/HayaseBot]
-
-<h3>🛠  Active Repositories 🛠</h3>
+<h3 align="center">🛠  Active Repositories 🛠</h3>
 
 - [https://github.com/SagaeHaruki/HayaseBot]
 - [https://github.com/SagaeHaruki/Discord-Bot-JS]
