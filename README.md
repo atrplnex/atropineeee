@@ -1,4 +1,5 @@
 <h1 align = "center">⚙️  Sagae Haruki // "Atropine" ⚙️</h1>
+<p align = "center"><img src = "https://lanyard-profile-readme.vercel.app/api/817577444805836831?idleMessage=" alt="sagaeharuki"/></p>   
 <h2 align = "center">⚒ C#, C++ & JavaScript Programmer ⚒</h2>
 
 <div align = "center">
@@ -28,10 +29,9 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" width="40" height="40"/>&nbsp;
 </div>
 
-<h2 align = "center">📌 My Activities / Statistics on Github & Discord 📌</h2>
+<h2 align = "center">📌 My Activities / Statistics on Github 📌</h2>
 
 <div align= "center" id = "badges">
-<img src = "https://lanyard-profile-readme.vercel.app/api/817577444805836831?idleMessage="May%20The%20Code%20Be%20With%20you"&borderRadius=25px" alt="sagaeharuki" />   
   <p align "center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=sagaeharuki&theme=gruvbox" alt="sagaeharuki"/></p>
   <p align "center"><img src = "https://github-readme-stats.vercel.app/api?username=sagaeharuki&show_icons=true&locale=en&theme=gruvbox" alt="sagaeharuki"/></p>
   <p align "center"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=sagaeharuki&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="sagaeharuki" /></p>
