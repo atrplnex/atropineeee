@@ -16,9 +16,9 @@
 <h2 align = "center">🛠  Active Projects / Repositories  🛠</h2>
 <div align = "center">
   
-[C# Bot](https://github.com/SagaeHaruki/HayaseBot)     
-[C# Unity Scripts](https://github.com/SagaeHaruki/Discord-Bot-JS)     
-[JavaScript Bot](https://github.com/SagaeHaruki/Discord-Bot-JS)
+[C# Bot](https://github.com/SagaeHaruki/HayaseBot)(On Hold)     
+[C# Unity Scripts](https://github.com/SagaeHaruki/SGameScripts)(Active)     
+[JavaScript Bot](https://github.com/SagaeHaruki/Discord-Bot-JS)(On Hold)
 </div>
 
 <h2 align = "center">⚠️ Languages that i'm currently learning & using ⚠️</h2>
