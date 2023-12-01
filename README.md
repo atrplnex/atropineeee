@@ -16,8 +16,8 @@
 <h2 align = "center">🛠  Active Projects / Repositories  🛠</h2>
 <div align = "center">
   
-[Discord Bot C#](https://github.com/SagaeHaruki/HayaseBot) (On Hold)     
-[Unity 3d Game Script](https://github.com/SagaeHaruki/SGameScripts) (Active) 
+[Discord Bot C#](https://github.com/SagaeHaruki/HayaseBot) (On Hold)
+[Unity 3d Game Script](https://github.com/SagaeHaruki/SGameScripts) (Active)
 [Keyboard Overlay](https://github.com/SagaeHaruki/Discord-Bot-JS) (Beta)
 [Discord Bot .JS](https://github.com/SagaeHaruki/Discord-Bot-JS) (On Hold)
 </div>
