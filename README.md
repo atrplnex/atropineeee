@@ -18,7 +18,6 @@
   
 [Unity 3d Game Script](https://github.com/SagaeHaruki/SGameScripts) (Active)
 [Keypress Overlay v2](https://github.com/SagaeHaruki/KeypressOverlayV2) (New)
-[Discord Bot C#](https://github.com/SagaeHaruki/HayaseBot) (On Hold)
 
 </div>
 
