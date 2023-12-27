@@ -6,7 +6,7 @@
   
 🔔 I upload most of my school activities & project here, feel free to copy them all.
   
-🔭 I'm currently on my college degree studying game development C# (Unity).
+🔭 I'm currently on my college degree studying game development with C# (Unity).
   
 🌱 I'm trying to learn: C#, C++, JavaScript & MSSql for fun.
 
