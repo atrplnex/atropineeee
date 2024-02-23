@@ -32,7 +32,6 @@
 <h2 align = "center">📌 My Activities / Statistics on Github 📌</h2>
 
 <div align= "center" id = "badges">
-  <p align "center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=sagaeharuki&theme=gruvbox" alt="sagaeharuki"/></p>
   <p align "center"><img src = "https://github-readme-stats.vercel.app/api?username=sagaeharuki&show_icons=true&locale=en&theme=gruvbox" alt="sagaeharuki"/></p>
   <p align "center"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=sagaeharuki&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="sagaeharuki" /></p>
 </div>
