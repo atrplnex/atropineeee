@@ -1,6 +1,6 @@
 <h1 align = "center">⚙️  Sagae Haruki // "Atropine" ⚙️</h1>
 <p align = "center"><img src = "https://lanyard-profile-readme.vercel.app/api/817577444805836831?idleMessage=" alt="sagaeharuki"/></p>   
-<h2 align = "center">⚒ C#, C++ & JavaScript Programmer ⚒</h2>
+<h2 align = "center">⚒ C# Game Programmer [Student] ⚒</h2>
 
 <div align = "center">
   
