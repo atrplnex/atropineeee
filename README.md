@@ -11,7 +11,7 @@
 🌱 I'm trying to learn: C#, C++, JavaScript & MSSql for fun.
 
 <img src="https://komarev.com/ghpvc/?username=sagaeharuki&label=Profile%20views&color=0902d1&style=flat" alt="sagaeharuki" />
-</div>
+</div> 
 
 <h2 align = "center">🛠  Active Projects / Repositories  🛠</h2>
 <div align = "center">
