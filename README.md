@@ -16,8 +16,8 @@
 <h2 align = "center">🛠  Active Projects / Repositories  🛠</h2>
 <div align = "center">
   
-[Unity 3d Game Script](https://github.com/SagaeHaruki/SGameScripts) (Active)
-[Keypress Overlay v2](https://github.com/SagaeHaruki/KeypressOverlayV2) (New)
+[Unity 3d Game Script](https://github.com/SagaeHaruki/SGameScripts)
+[Keypress Overlay v2](https://github.com/SagaeHaruki/KeypressOverlayV2)
 
 </div>
 
