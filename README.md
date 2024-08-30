@@ -3,7 +3,7 @@
 <h2 align = "center">⚒ C# Game Programmer [Student] ⚒</h2> 
       
 <div align = "center">    
-   
+    
 🔔 I upload most of my school activities & project here, feel free to copy them all.
   
 🔭 I'm currently on my college degree studying game development with C# (Unity).
