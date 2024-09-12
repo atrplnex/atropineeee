@@ -1,13 +1,13 @@
 <h1 align = "center">⚙️  Sagae Haruki // "Atropine" ⚙️</h1>
-<p align = "center"><img src = "https://lanyard-profile-readme.vercel.app/api/817577444805836831?idleMessage=" alt="sagaeharuki"/></p>    
-<h2 align = "center">⚒ C# Game Programmer [Student] ⚒</h2> 
-       
-<div align = "center">    
-    
+<p align = "center"><img src = "https://lanyard-profile-readme.vercel.app/api/817577444805836831?idleMessage=" alt="sagaeharuki"/></p>
+<h2 align = "center">⚒ C# Game Programmer [Student] ⚒</h2>
+
+<div align = "center">
+
 🔔 I upload most of my school activities & project here, feel free to copy them all.
-  
+
 🔭 I'm currently on my college degree studying game development with C# (Unity).
-  
+
 🌱 I'm trying to learn: C#, C++, JavaScript & MSSql for fun.
 
 <img src="https://komarev.com/ghpvc/?username=sagaeharuki&label=Profile%20views&color=0902d1&style=flat" alt="sagaeharuki" />
@@ -15,7 +15,7 @@
 
 <h2 align = "center">🛠  Active Projects / Repositories  🛠</h2>
 <div align = "center">
-  
+
 [Unity 3d Game Script](https://github.com/SagaeHaruki/SGameScripts)
 [Keypress Overlay v2](https://github.com/SagaeHaruki/KeypressOverlayV2)
 
