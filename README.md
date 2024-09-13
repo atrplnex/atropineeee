@@ -2,7 +2,7 @@
 <p align = "center"><img src = "https://lanyard-profile-readme.vercel.app/api/817577444805836831?idleMessage=" alt="sagaeharuki"/></p>
 <h2 align = "center">⚒ C# Game Programmer [Student] ⚒</h2>
 
-<div align = "center">
+<div align = "center"> 
 
 🔔 I upload most of my school activities & project here, feel free to copy them all.
 
