@@ -17,6 +17,9 @@
 </p>
 
 <h2 align="center"> Badges </h2>
-<div align="center"> [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) </div>
+
+<div align="center"> 
+ [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
+</div>
 
 
