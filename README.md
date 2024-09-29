@@ -15,3 +15,8 @@
 <p align="center">
  <a href="https://x.com/HarukiiSagae_" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="SagaeHaruki" /></a>
 </p>
+
+<h2 align="center"> Badges </h2>
+<div align="center"> [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) </div>
+
+
