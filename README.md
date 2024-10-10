@@ -4,7 +4,7 @@
 >
 > 🔎 I'm trying to learn other stuffs like: C++, JavaScript, CSS, Html & MSSql for fun.
 > 
-> 🔕 My DM's or Requests are currently on closed.
+> 🔕 My DM's or Requests are currently on closed. 
 
 </div>
 
