@@ -1,4 +1,4 @@
-# Hey! I'm Sagae Haruki  
+# Hey! I'm Sagae Haruki   
    
 > 📚 I'm currently on my College Degree studying **Game Development** *(Unity)* and **Software Development** with *.Net*.
 > 
