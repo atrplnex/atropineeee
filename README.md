@@ -16,8 +16,8 @@
 
 <div align="center"> 
 
-![](https://github-readme-stats.vercel.app/api?username=SagaeHaruki&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagaeHaruki&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=atropineeee&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atropineeee&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
