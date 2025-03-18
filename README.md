@@ -1,4 +1,4 @@
-<img src="https://github.com/atropineeee/atropineeee/blob/main/Images/ProfileBanner.svg" width="100%" height="auto">
+<img src="https://i.postimg.cc/8cqPcqPS/Profile-Banner.png" width="100%" height="auto">
 <p align="center">
    <a href="https://x.com/@HarukiiSagae_"><img width="55px" alt="Twitter" title="Twitter" src="https://github.com/atropineeee/atropineeee/blob/main/Images/Twitter.svg"/></a>
    <a href="https://www.youtube.com/@haruukii_"><img width="55px" alt="Youtube" title="Youtube" src="https://github.com/atropineeee/atropineeee/blob/main/Images/Youtube.svg"/></a>
