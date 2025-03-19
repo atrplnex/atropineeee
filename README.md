@@ -35,7 +35,7 @@ Hi 👋, I am **Atropine** an ambitious Full stack Developer, I specialize in Mo
 <a href=""><img width="40%" src="https://github-readme-stats.vercel.app/api?username=atropineeee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></a> <br/>
 <a href=""><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atropineeee&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"></a> <br/>
 
-# 🗃 Active Projects
+## 🗃 Active Projects
 
 <details>
    <summary>⚙️ My Active Projects</summary>
