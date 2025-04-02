@@ -11,7 +11,8 @@
 
 <p>
 
-Hi 👋, I am **Atropine** an ambitious Full stack Developer, I specialize in Mobile Development, Game Development, Web Development and Software Development
+Hi 👋, I'm Atropine, an ambitious Full-Stack Developer specializing in Mobile, Game, Web, and Software Development.
+Passionate about building custom applications for myself and my clients.
 
 <div>
 
@@ -32,8 +33,8 @@ Hi 👋, I am **Atropine** an ambitious Full stack Developer, I specialize in Mo
 
 ## 🔥 Github Stats
 
-<a href=""><img width="40%" src="https://github-readme-stats.vercel.app/api?username=atropineeee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></a> <br/>
-<a href=""><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atropineeee&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"></a> <br/>
+<a href=""><img width="45%" src="https://github-readme-stats.vercel.app/api?username=atropineeee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></a> <br/>
+<a href=""><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atropineeee&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"></a> <br/>
 
 ## 🗃 Active Projects
 
