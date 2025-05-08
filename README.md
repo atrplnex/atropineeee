@@ -44,3 +44,12 @@ Passionate about building custom applications for myself and my clients.
 - 🚫 Currently No Active Projects!
    
 </details>
+
+
+<details>
+   <summary>⚙️ My Past Projects</summary>
+   
+- 🚫 Currently No Past Projects!
+   
+</details>
+
