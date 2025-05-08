@@ -45,6 +45,7 @@ Passionate about building custom applications for myself and my clients.
    
 </details>
 
+## 🗃 Past Projects
 
 <details>
    <summary>⚙️ My Past Projects</summary>
