@@ -33,8 +33,8 @@ Passionate about building custom applications for myself and my clients.
 
 ## 🔥 Github Stats
 
-<a href=""><img width="45%" src="https://github-readme-stats.vercel.app/api?username=atropineeee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></a> <br/>
-<a href=""><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atropineeee&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"></a> <br/>
+<a href=""><img width="45%" src="https://github-readme-stats.vercel.app/api?username=atrplnex&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></a> <br/>
+<a href=""><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrplnex&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"></a> <br/>
 
 ## 🗃 Active Projects
 
